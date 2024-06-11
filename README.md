@@ -11,7 +11,7 @@ After opening a video in ImageJ/Fiji you can save a series of timepoints within 
 2. Next open ImageJ/Fiji and go to Plugins -> Shortcuts -> Add Shortcut...
   <img src="https://github.com/luca-flemming/AnnotationTable-Plugin/blob/main/IMAGES/img2.png" width="700" height="460"/>
 
-3. Then choose a hotkey and select “AnnotationScript” from the dropdown menu.
+3. Then choose a hotkey and select “AnnotationTable-Plugin” from the dropdown menu.
   <img src="https://github.com/luca-flemming/AnnotationTable-Plugin/blob/main/IMAGES/img3.png" width="525" height="345"/>
 
    Click “okay” and restart ImageJ/Fiji
@@ -22,7 +22,7 @@ To do this you open the AnnotationScript.py file (with the text editor on Mac, o
 If you changed the FPS after opening ImageJ/Fiji you need to restart the program.
   <img src="https://github.com/luca-flemming/AnnotationTable-Plugin/blob/main/IMAGES/img4.png" width="700" height="290"/>
 
-2. Now you can start ImageJ/Fiji and open a video. After pressing your hotkey a log window will open in which the time point is recorded in seconds with as many decimals as needed by AutoGaitA for the specific frame rate. With each press you a new time point.
+2. Now you can start ImageJ/Fiji and open a video. After pressing your hotkey a log window will open in which the time point is recorded in seconds with as many decimals as needed by AutoGaitA for the specific frame rate. With each press you create a new time point.
   <img src="https://github.com/luca-flemming/AnnotationTable-Plugin/blob/main/IMAGES/img5.png" width="700" height="460"/>
    
    If you accidentally saved the wrong time point you can correct this by simply clicking on the value and pressing delete.
