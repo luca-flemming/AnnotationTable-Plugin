@@ -11,7 +11,7 @@ After opening a video in ImageJ/Fiji you can save a series of timepoints within 
 2. Next open ImageJ/Fiji and go to Plugins -> Shortcuts -> Add Shortcut...
   <img src="https://github.com/luca-flemming/AnnotationTable-Plugin/blob/main/IMAGES/img2.png" width="700" height="460"/>
 
-3. Then choose a hotkey and select “AnnotationTable-Plugin” from the dropdown menu.
+3. Then choose a hotkey and select “AnnotationTable Plugin” from the dropdown menu.
   <img src="https://github.com/luca-flemming/AnnotationTable-Plugin/blob/main/IMAGES/img3.png" width="525" height="345"/>
 
    Click “okay” and restart ImageJ/Fiji
