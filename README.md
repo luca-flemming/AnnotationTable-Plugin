@@ -32,7 +32,7 @@ If you changed the FPS after opening ImageJ/Fiji you need to restart the program
 3. Once you are done with the whole video you can select all the time points in the log window and copy them in the annotation table excel sheet.
   <img src="https://github.com/luca-flemming/AnnotationTable-Plugin/blob/main/IMAGES/img7.png" width="525" height="345"/>
 
-   In order to transpose them into the corresponding row you need to paste them into an empty area and select and copy them again. Otherwise transpose won’t work unfortunately.
+   In order to transpose them into the corresponding row you need to paste them into an empty area then select and copy them again. Otherwise transpose won’t work unfortunately.
   <img src="https://github.com/luca-flemming/AnnotationTable-Plugin/blob/main/IMAGES/img8.png" width="700" height="460"/>
 
 
